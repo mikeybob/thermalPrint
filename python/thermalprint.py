@@ -12,6 +12,9 @@ def main(argv: Sequence[str] | None = None) -> int:
 
     # Implement behaviour here
 
+       if args.some_argument:
+        print("Argument is used")
+
     return 0
 
 
