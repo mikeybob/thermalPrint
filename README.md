@@ -1,5 +1,16 @@
 # thermalPrint
+## Scripts for using my thermal printers. ESC/POS protocal based5.
+![Python CI](https://github.com/mikeybob/thermalPrint/actions/workflows/python.yml/badge.svg)
+![GitHub License](https://img.shields.io/github/license/mikeybob/thermalPrint)
 
-[![Python CI](https://github.com/mikeybob/thermalPrint/actions/workflows/python.yml/badge.svg)](https://github.com/mikeybob/thermalPrint/actions/workflows/python.yml)
+### Issues
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/mikeybob/thermalPrint)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed/mikeybob/thermalPrint)
 
-Scripts for using my thermal printers. ESC/POS protocal based.
+### Pull Requests
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/mikeybob/thermalPrint)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed/mikeybob/thermalPrint)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/mikeybob/thermalPrint)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/mikeybob/thermalPrint/total)
+
+
