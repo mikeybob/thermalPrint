@@ -1,22 +1,16 @@
-#!/usr/bin/env python
-from __future__ import annotations
-
-import argparse
-from collections.abc import Sequence
+"""thermalPrint utility."""
 
 
-def main(argv: Sequence[str] | None = None) -> int:
-    parser = argparse.ArgumentParser()
-    # Add arguments here
-    args = parser.parse_args(argv)
-
-    # Implement behaviour here
-
-       if args.some_argument:
-        print("Argument is used")
-
-    return 0
-
-
-if __name__ == "__main__":
-    raise SystemExit(main())
+# import select
+# import json
+# import logging
+# from datetime import datetime, timezone
+# from time import sleep
+# from rich.console import Console
+# from rich.layout import Layout
+# from rich.panel import Panel
+# from rich.live import Live
+# from rich.rule import Rule as rule
+# import pyfiglet
+# import psycopg2
+# import escpos
