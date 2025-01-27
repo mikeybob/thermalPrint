@@ -1,5 +1,5 @@
 # thermalPrint
-## Scripts for using my thermal printers. ESC/POS protocal based5.
+## Scripts for using my thermal printers. ESC/POS protocal based.
 ![Python CI](https://github.com/mikeybob/thermalPrint/actions/workflows/python.yml/badge.svg)
 ![GitHub License](https://img.shields.io/github/license/mikeybob/thermalPrint)
 
